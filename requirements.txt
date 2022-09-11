@@ -3,3 +3,4 @@ pandas==1.4
 scikit-learn==1.1
 prophet==1.1
 ipympl==0.9
+openpyxl==3.0
